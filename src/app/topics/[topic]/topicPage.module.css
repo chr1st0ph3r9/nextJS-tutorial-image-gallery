@@ -1,0 +1,10 @@
+.image {
+    object-fit: cover;
+    margin: 0.25rem;
+    border-radius: 4px;
+}
+
+.link {
+
+    margin-left: 10px;
+}
